@@ -38,26 +38,16 @@ The process is broken down into sequential tasks. To execute the full documentat
     - [component_diagram.md](./diagrams/component_diagram.md) (Optional)
     - [relationship_diagram.md](./diagrams/relationship_diagram.md) (Optional)
 
-- [ ] **Task 3: Generate Dependency Analysis Report**
-  - *Prompt File:* `#file:discovery_task_3_dependencies.prompt.md`
-  - *Output File:* [dependency_analysis.md](./dependency_analysis.md)
-
-- [ ] **Task 4: Generate Code Quality and Idiom Analysis**
-  - *Prompt File:* `#file:discovery_task_4_code_quality.prompt.md`
-  - *Output File:* [code_quality_idiom_analysis.md](./code_quality_idiom_analysis.md)
-
-- [ ] **Task 5: Generate Test Coverage Assessment & Gap Analysis**
-  - *Prompt File:* `#file:discovery_task_5_test_coverage.prompt.md`
+- [ ] **Task 3: Generate Test Coverage Assessment & Gap Analysis**
+  - *Prompt File:* `#file:discovery_task_3_test_coverage.prompt.md`
   - *Output File:* [test_coverage_analysis.md](./test_coverage_analysis.md)
 
-- [ ] **Task 6: Generate Design Pattern Analysis**
-  - *Prompt File:* `#file:discovery_task_6_design_patterns.prompt.md`
-  - *Output File:* [design_patterns_analysis.md](./design_patterns_analysis.md)
+- [ ] **Task 4: Generate Tests**
+  - *Prompt File:* `#file:discovery_task_4_test_generation.prompt.md`
 
-- [ ] **Task 7: Generate Static Code Analysis Report**
-  - *Prompt File:* `#file:discovery_task_7_static_analysis.md`
-  - *Output File:* [static_analysis_report.md](./static_analysis_report.md)
+- [ ] **Task 5: Generate Framework Upgrade Report**
+  - *Prompt File:* `#file:discovery_task_5_framework_upgrade.prompt.md`
+  - *Output File:* [framework_upgrade_report.md](./framework_upgrade_plan.md)
 
-- [ ] **Task 8: Generate Performance Enhancement Report**
-  - *Prompt File:* `#file:discovery_task_8_performance_enhancement.prompt.md`
-  - *Output File:* [performance_enhancement_report.md](./performance_enhancement_report.md)
+- [ ] **Task 6: Generate Application Modernization Code**
+  - *Prompt File:* `#file:discovery_task_6_application_modernization.prompt.md`

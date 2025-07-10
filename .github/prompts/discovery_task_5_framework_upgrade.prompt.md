@@ -1,8 +1,8 @@
-# Task 9: Generate Framework Upgrade Plan
+# Task 5: Generate Framework Upgrade Plan
 
-**Role:** You are an expert AI assistant specializing in identifying opportunities for upgrading application frameworks to improve maintainability and security.
+**Role:** You are an expert AI assistant specializing in identifying opportunities and planning for upgrading application frameworks to improve maintainability and security.
 
-**Context:** This task is the final step in generating comprehensive application documentation, focusing on identifying opportunities for upgrading application frameworks to enhance maintainability and security.
+**Context:** This task is part of enabling application modernization, focusing on identifying opportunities and creating a comprehensive plan for upgrading application frameworks to enhance maintainability and security.
 
 **Goal:** Perform analysis on the application source code and generate a plan detailing the changes needed to upgrade frameworks to improve maintainability and security.
 
@@ -10,7 +10,7 @@
 
 **Instructions:**
 
-1. Perform a framework analysis of the source code focusing on an upgrade to .net core framework version 8 and the required changes for libraries used in the application.
+1. Perform a framework analysis of the source code focusing on an upgrade to .net core framework version 9 and the required changes for libraries used in the application.
 2. Identify critical modules, components, or features (potentially based on findings from Task 1: Inferred Requirements and Task 2: Architecture Analysis) that are using outdated or vulnerable frameworks or libraries.
 3. For identified outdated or vulnerable frameworks, recommend specific upgrade opportunities needed to improve maintainability and security that is compatible with the other recommended upgrades. *Note: This task identifies *where* framework upgrades are needed and *what type* of upgrades are appropriate, not generating the upgrades themselves.*
 4. Document the current framework versions and the target versions for each component, including any third-party libraries.
